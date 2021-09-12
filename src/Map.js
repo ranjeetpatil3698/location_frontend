@@ -1,4 +1,4 @@
-import { lazy, useState } from "react";
+import {  useState } from "react";
 import ReactMapGL, { Marker } from "react-map-gl";
 
 import "mapbox-gl/dist/mapbox-gl.css";
